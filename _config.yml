@@ -181,8 +181,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-
-collections:
   articles:
     output: true
     permalink: /articles/:name/

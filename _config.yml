@@ -182,6 +182,11 @@ collections:
     output: true
     sort_by: order
 
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
